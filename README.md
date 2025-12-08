@@ -52,7 +52,7 @@
 
 - 🌍 **Global Health Prediction Dashboard**  
   <sub>Interactive forecasting dashboard using ML, Big Data & analytics.</sub>  
-  ➤ [GitHub Repo](#)
+  ➤ [GitHub Repo](https://github.com/TheekshR/Predictive_Analytic_System_in_Healthcare)
 
 ---
 
