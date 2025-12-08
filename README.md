@@ -48,7 +48,7 @@
 ### 🔥 **AI & Data Science Projects**
 - 🆘 **Disaster Response Coordination — Multi-Agentic System**  
   <sub>AI-driven multi-agent system that optimizes emergency response workflows.</sub>  
-  ➤ [GitHub Repo](#)
+  ➤ [GitHub Repo](https://github.com/veenath09/disaster_control_Agent)
 
 - 🌍 **Global Health Prediction Dashboard**  
   <sub>Interactive forecasting dashboard using ML, Big Data & analytics.</sub>  
