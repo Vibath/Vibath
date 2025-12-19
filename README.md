@@ -15,7 +15,7 @@
 - 🌩️ Currently learning Machine Learning, Data Engineering, Cloud Computing & Web Analytics  
 - 🧠 Working on multi-agent AI systems & full-stack apps  
 - 🔥 Building modern web + mobile solutions  
-- 📫 Email: vibathmkj0827@gmail.com
+- 📫 Email: vibathmkj0827@gmail.com | My Portfolio: https://vibath.github.io/Portfolio/
 
 ---
 
