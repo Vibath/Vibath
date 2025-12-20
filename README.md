@@ -59,11 +59,17 @@
 ### 💡 **Full-Stack Applications**
 - ⚡ **FutureWatt — Sustainable Energy Management System (MERN)**  
   <sub>Smart energy analytics + consumption projection system.</sub>  
-  ➤ [GitHub Repo](https://github.com/Vibath/FutureWatt](https://github.com/TheekshR/FutureWatt)
+  ➤ [GitHub Repo](https://github.com/TheekshR/FutureWatt)
 
 - 🛒 **FreshMart — Java-Based Web Application**  
   <sub>E-commerce platform built with Java EE / JSP / Servlets.</sub>  
   ➤ [GitHub Repo](https://github.com/Vibath/FreshMart)
+
+---
+
+### 💡 **Promotional Websites**
+- 🌐 **Official Website for Memory SL Music Band**   
+  ➤ [GitHub Repo](https://github.com/Vibath/Memory-SL.git)
 
 ---
 
