@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 3rd-year Data Science undergraduate  
+- 🎓 4th-year Data Science undergraduate  
 - 📊 Passionate about ML, Optimization, and analytics  
 - 🌩️ Currently learning Machine Learning, Data Engineering, Cloud Computing & Web Analytics  
 - 🧠 Working on multi-agent AI systems & full-stack apps  
