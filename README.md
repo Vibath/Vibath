@@ -69,7 +69,11 @@
 
 ### 💡 **Promotional Websites**
 - 🌐 **Official Website for Memory SL Music Band**   
-  ➤ [GitHub Repo](https://github.com/Vibath/Memory-SL.git)
+  ➤ <a href="https://www.memorysl.com"/></a>
+
+  **Promotional Websites**
+- 🌐 **Official Website for eyesnap Photography**   
+  ➤ <a href="https://eyesnapphotography"/></a>
 
 ---
 
