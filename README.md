@@ -69,11 +69,11 @@
 
 ### 💡 **Promotional Websites**
 - 🌐 **Official Website for Memory SL Music Band**   
-  ➤ <a href="https://www.memorysl.com"/></a>
+  ➤ [Memory SL]<a href="https://www.memorysl.com"/></a>
 
   **Promotional Websites**
 - 🌐 **Official Website for eyesnap Photography**   
-  ➤ <a href="https://eyesnapphotography"/></a>
+  ➤ [Eyesnap Photography]<a href="https://eyesnapphotography"/></a>
 
 ---
 
